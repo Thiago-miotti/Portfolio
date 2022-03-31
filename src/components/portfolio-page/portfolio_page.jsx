@@ -19,11 +19,15 @@ const portfolio_page = () => {
           </div>
           <h3>Github user searcher</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className="btn" target="_blank">
+            <a
+              href="https://github.com/Thiago-miotti/Github-Searcher"
+              className="btn"
+              target="_blank"
+            >
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://enchanting-bombolone-def9de.netlify.app"
               className="btn btn-primary"
               target="_blank"
             >
