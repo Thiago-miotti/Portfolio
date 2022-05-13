@@ -36,10 +36,9 @@ const about = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus quo
-            aspernatur modi in hic? Alias officia labore fugiat, sunt ratione
-            quisquam. Nisi nam eius cupiditate impedit labore, doloribus commodi
-            accusamus.
+          Estudante de sistemas de informação na faculdade
+ESPM, com interesse na área de desenvolvimento
+front-end.
           </p>
 
           <a href="#contact" className="btn btn-primary">
